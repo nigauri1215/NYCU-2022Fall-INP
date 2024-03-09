@@ -1,0 +1,89 @@
+CAP LS 302
+NICK nigger
+USER sense 0 * :sense
+:mircd 421  CAP :Unknown command
+:mircd 001 nigger :Welcome to the minimized IRC daemon!
+:mircd 251 nigger :There are 18 users and 0 invisible on 1 server
+:mircd 375 nigger :- mircd Message of the day -
+:mircd 372 nigger :-  Hello, World!
+:mircd 372 nigger :-               @                    _ 
+:mircd 372 nigger :-   ____  ___   _   _ _   ____.     | |
+:mircd 372 nigger :-  /  _ `'_  \ | | | '_/ /  __|  ___| |
+:mircd 372 nigger :-  | | | | | | | | | |   | |    /  _  |
+:mircd 372 nigger :-  | | | | | | | | | |   | |__  | |_| |
+:mircd 372 nigger :-  |_| |_| |_| |_| |_|   \____| \___,_|
+:mircd 372 nigger :-  minimized internet relay chat daemon
+:mircd 372 nigger :-
+:mircd 376 nigger :End of message of the day
+LIST
+:mircd 321 nigger Channel :Users Name
+:mircd 322 nigger #000 0 :
+:mircd 322 nigger #123 0 :e
+:mircd 322 nigger #456 0 :erqe
+:mircd 322 nigger #AA 1 :
+:mircd 322 nigger #YAY 0 :
+:mircd 322 nigger #aqua 0 :minato
+:mircd 322 nigger #chal1 0 :
+:mircd 322 nigger #channel 0 :
+:mircd 322 nigger #owo 0 :
+:mircd 322 nigger #owo,#YAY,#&ono 1 :
+:mircd 322 nigger #owo,#YAY,#a,b,#a,#b,#a 1 :
+:mircd 322 nigger #qq 4 :hi
+:mircd 322 nigger #re 1 :
+:mircd 322 nigger #rr 0 :ff
+:mircd 322 nigger #rre 0 :
+:mircd 322 nigger #with 1 :000
+:mircd 323 nigger :End of Liset
+JOIN qqq
+:nigger JOIN #qqq
+:mircd 331 nigger #qqq :No topic is set
+:mircd 353 nigger #qqq :nigger
+:mircd 366 nigger #qqq :End of Names List
+MODE #qqq
+:mircd 421 nigger MODE :Unknown command
+PRIVMSG #qqq :i hate you
+PART #qqq :WeeChat 3.5
+:nigger PART :#qqq
+QUIT :WeeChat 3.5
+
+
+:mircd 421  CAP :Unknown command
+:mircd 001 ni
+USER sense 0 * :sense
+ :Welcome to the minimized IRC daemon!
+:mircd 251 ni
+USER sense 0 * :sense
+ :There are 1 users and 0 invisible on 1 server
+:mircd 375 ni
+USER sense 0 * :sense
+ :- mircd Message of the day -
+:mircd 372 ni
+USER sense 0 * :sense
+ :-  Hello, World!
+:mircd 372 ni
+USER sense 0 * :sense
+ :-               @                    _ 
+:mircd 372 ni
+USER sense 0 * :sense
+ :-   __  _   _   _ _   __.     | |
+:mircd 372 ni
+USER sense 0 * :sense
+ :-  /  _ `'_  \ | | | '_/ /  __|  ___| |
+:mircd 372 ni
+USER sense 0 * :sense
+ :-  | | | | | | | | | |   | |    /  _  |
+:mircd 372 ni
+USER sense 0 * :sense
+ :-  | | | | | | | | | |   | |__  | |_| |
+:mircd 372 ni
+USER sense 0 * :sense
+ :-  |_| |_| |_| |_| |_|   \____| \___,_|
+:mircd 372 ni
+USER sense 0 * :sense
+ :-  minimized internet relay chat daemon
+:mircd 372 ni
+USER sense 0 * :sense
+ :-
+:mircd 376 ni
+USER sense 0 * :sense
+ :End of message of the day

@@ -1,0 +1,17 @@
+2022-11-13 22:47:58		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2022-11-13 22:47:58		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2022-11-13 22:47:58		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2022-11-13 22:47:58		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2022-11-13 22:47:58	=!=	fifo: unable to create pipe for remote control (./a/weechat_fifo): error 95 Operation not supported
+2022-11-13 22:47:58		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2022-11-13 22:48:10		irc: server mircd added
+2022-11-13 22:48:20		Option changed: irc.server.mircd.nicks = "aaa"  (default if null: "nigauri,nigauri1,nigauri2,nigauri3,nigauri4")
+2022-11-13 22:57:07	=!=	fifo: unable to create pipe for remote control (./a/weechat_fifo): error 95 Operation not supported
+2022-11-13 22:57:07		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2022-11-13 23:00:49	=!=	Error: unknown command "/egotistic" (type /help for help)
+2022-11-13 23:06:48	=!=	fifo: unable to create pipe for remote control (./a/weechat_fifo): error 95 Operation not supported
+2022-11-13 23:06:48		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2022-11-13 23:07:27	=!=	Error: unknown command "/uers" (type /help for help)
+2022-11-13 23:07:31	=!=	Error: unknown command "/userss" (type /help for help)
+2022-11-17 10:43:09	=!=	fifo: unable to create pipe for remote control (./a/weechat_fifo): error 95 Operation not supported
+2022-11-17 10:43:10		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer

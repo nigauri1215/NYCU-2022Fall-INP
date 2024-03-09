@@ -1,0 +1,4 @@
+1.先輸入固定的字串，讓oracle加密，隨意猜幾個字串後得到oracle的答案，再把此答案丟回code裡面解密。
+code的原理為把pid可能的數字暴力列舉一遍並算出可能的srand seed，並參考source去解碼。
+2.同1
+3.gethostbyname2沒有reentrant性質，因此有兩個thread同時運行時，另一個thread修改了值會影響到共享變數ent。利用此性質，先用thread1 request任意網域及port，繞過擋ip的機制，此時程式碼發現連不上會try again，這時再用thread2 request localhost/10000，此時ent的ip addr list會被修改成localhost的ip，就能在try again的迴圈成功連上localhost。

@@ -1,0 +1,4 @@
+import base64
+coded_string = '''NmQzMWRlOSAyMDIyLzA5LzI0IDAzOjM1OjM3IEZMQUd7MTY2Mzk5MDUzNy44NzA4NjNfc2ltUGwzX1BAY0szdF9hbmFMWTVpNSF9IDM0NjA3MjExNjc1MzIxMTk0Njc1Nzk4MDExMzAzNDMyOTc3MTQyNDQ4NTE3OTExNjEyNDQwMzA=='''
+decoded_string=base64.b64decode(coded_string)
+print(decoded_string)

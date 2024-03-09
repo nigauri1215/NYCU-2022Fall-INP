@@ -1,0 +1,85 @@
+2022-11-13 22:48:54	--	irc: connecting to server localhost/10004...
+2022-11-13 22:48:54	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-13 22:48:54	--	CAP: Unknown command
+2022-11-13 22:48:54	--	Welcome to the minimized IRC daemon!
+2022-11-13 22:48:54	--	There are 1 users and 0 invisible on 1 server
+2022-11-13 22:48:54	--	- mircd Message of the day -
+2022-11-13 22:48:54	--	-  Hello, World!
+2022-11-13 22:48:54	--	-               @                    _
+2022-11-13 22:48:54	--	-   ____  ___   _   _ _   ____.     | |
+2022-11-13 22:48:54	--	-  /  _ `'_  \ | | | '_/ /  __|  ___| |
+2022-11-13 22:48:54	--	-  | | | | | | | | | |   | |    /  _  |
+2022-11-13 22:48:54	--	-  | | | | | | | | | |   | |__  | |_| |
+2022-11-13 22:48:54	--	-  |_| |_| |_| |_| |_|   \____| \___,_|
+2022-11-13 22:48:54	--	-  minimized internet relay chat daemon
+2022-11-13 22:48:54	--	-
+2022-11-13 22:48:54	--	End of message of the day
+2022-11-13 22:57:12	--	irc: connecting to server localhost/10004...
+2022-11-13 22:57:12	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-13 22:57:12	--	CAP: Unknown command
+2022-11-13 22:57:12	--	Welcome to the minimized IRC daemon!
+2022-11-13 22:57:12	--	There are 1 users and 0 invisible on 1 server
+2022-11-13 22:57:12	--	- mircd Message of the day -
+2022-11-13 22:57:12	--	-  Hello, World!
+2022-11-13 22:57:12	--	-               @                    _
+2022-11-13 22:57:12	--	-   ____  ___   _   _ _   ____.     | |
+2022-11-13 22:57:12	--	-  /  _ `'_  \ | | | '_/ /  __|  ___| |
+2022-11-13 22:57:12	--	-  | | | | | | | | | |   | |    /  _  |
+2022-11-13 22:57:12	--	-  | | | | | | | | | |   | |__  | |_| |
+2022-11-13 22:57:12	--	-  |_| |_| |_| |_| |_|   \____| \___,_|
+2022-11-13 22:57:12	--	-  minimized internet relay chat daemon
+2022-11-13 22:57:12	--	-
+2022-11-13 22:57:12	--	End of message of the day
+2022-11-13 23:00:29	--	Channel Topic
+2022-11-13 23:00:29	--	#mamamoo(0): wind flower
+2022-11-13 23:00:29	--	#egotistic(1)
+2022-11-13 23:00:29	--	End of List
+2022-11-13 23:00:40	--	UserID					Terminal  Host
+2022-11-13 23:00:40	--	aaa					-	127.0.0.1
+2022-11-13 23:00:40	--	bbb					-	127.0.0.1
+2022-11-13 23:00:40	--	End of users
+2022-11-13 23:06:56	--	irc: connecting to server localhost/10004...
+2022-11-13 23:06:56	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-13 23:06:56	--	CAP: Unknown command
+2022-11-13 23:06:56	--	Welcome to the minimized IRC daemon!
+2022-11-13 23:06:56	--	There are 1 users and 0 invisible on 1 server
+2022-11-13 23:06:56	--	- mircd Message of the day -
+2022-11-13 23:06:56	--	-  Hello, World!
+2022-11-13 23:06:56	--	-               @                    _
+2022-11-13 23:06:56	--	-   ____  ___   _   _ _   ____.     | |
+2022-11-13 23:06:56	--	-  /  _ `'_  \ | | | '_/ /  __|  ___| |
+2022-11-13 23:06:56	--	-  | | | | | | | | | |   | |    /  _  |
+2022-11-13 23:06:56	--	-  | | | | | | | | | |   | |__  | |_| |
+2022-11-13 23:06:56	--	-  |_| |_| |_| |_| |_|   \____| \___,_|
+2022-11-13 23:06:56	--	-  minimized internet relay chat daemon
+2022-11-13 23:06:56	--	-
+2022-11-13 23:06:56	--	End of message of the day
+2022-11-13 23:07:24	--	Channel Topic
+2022-11-13 23:07:24	--	#inp(1)
+2022-11-13 23:07:24	--	End of List
+2022-11-13 23:07:33	--	UserID					Terminal  Host
+2022-11-13 23:07:33	--	aaa					-	127.0.0.1
+2022-11-13 23:07:33	--	bbb					-	127.0.0.1
+2022-11-13 23:07:33	--	End of users
+2022-11-13 23:15:35	--	Channel Topic
+2022-11-13 23:15:35	--	#inp(0)
+2022-11-13 23:15:35	--	End of List
+2022-11-13 23:15:38	--	UserID					Terminal  Host
+2022-11-13 23:15:38	--	aaa					-	127.0.0.1
+2022-11-13 23:15:38	--	End of users
+2022-11-17 10:43:23	--	irc: connecting to server localhost/10004...
+2022-11-17 10:43:23	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-17 10:43:23	--	CAP: Unknown command
+2022-11-17 10:43:23	--	Welcome to the minimized IRC daemon!
+2022-11-17 10:43:23	--	There are 1 users and 0 invisible on 1 server
+2022-11-17 10:43:23	--	- mircd Message of the day -
+2022-11-17 10:43:23	--	-  Hello, World!
+2022-11-17 10:43:23	--	-               @                    _
+2022-11-17 10:43:23	--	-   ____  ___   _   _ _   ____.     | |
+2022-11-17 10:43:23	--	-  /  _ `'_  \ | | | '_/ /  __|  ___| |
+2022-11-17 10:43:23	--	-  | | | | | | | | | |   | |    /  _  |
+2022-11-17 10:43:23	--	-  | | | | | | | | | |   | |__  | |_| |
+2022-11-17 10:43:23	--	-  |_| |_| |_| |_| |_|   \____| \___,_|
+2022-11-17 10:43:23	--	-  minimized internet relay chat daemon
+2022-11-17 10:43:23	--	-
+2022-11-17 10:43:23	--	End of message of the day

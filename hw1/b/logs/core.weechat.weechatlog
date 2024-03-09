@@ -1,0 +1,14 @@
+2022-11-13 22:48:27		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2022-11-13 22:48:27		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2022-11-13 22:48:27		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2022-11-13 22:48:27		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2022-11-13 22:48:27	=!=	fifo: unable to create pipe for remote control (./b/weechat_fifo): error 95 Operation not supported
+2022-11-13 22:48:27		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2022-11-13 22:48:33		irc: server mircd added
+2022-11-13 22:48:39		Option changed: irc.server.mircd.nicks = "bbb"  (default if null: "nigauri,nigauri1,nigauri2,nigauri3,nigauri4")
+2022-11-13 22:57:15	=!=	fifo: unable to create pipe for remote control (./b/weechat_fifo): error 95 Operation not supported
+2022-11-13 22:57:15		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2022-11-13 23:06:59	=!=	fifo: unable to create pipe for remote control (./b/weechat_fifo): error 95 Operation not supported
+2022-11-13 23:06:59		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer
+2022-11-17 10:43:16	=!=	fifo: unable to create pipe for remote control (./b/weechat_fifo): error 95 Operation not supported
+2022-11-17 10:43:16		Plugins loaded: alias, aspell, buflist, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, tcl, trigger, xfer

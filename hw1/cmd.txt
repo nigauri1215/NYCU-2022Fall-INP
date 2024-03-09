@@ -1,0 +1,3 @@
+/server add mircd localhost/10004
+/set irc.server.mircd.nicks 
+/connect mircd

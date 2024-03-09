@@ -1,0 +1,80 @@
+2022-11-13 22:48:57	--	irc: connecting to server localhost/10004...
+2022-11-13 22:48:57	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-13 22:48:57	--	CAP: Unknown command
+2022-11-13 22:48:57	--	Welcome to the minimized IRC daemon!
+2022-11-13 22:48:57	--	There are 2 users and 0 invisible on 1 server
+2022-11-13 22:48:57	--	- mircd Message of the day -
+2022-11-13 22:48:57	--	-  Hello, World!
+2022-11-13 22:48:57	--	-               @                    _
+2022-11-13 22:48:57	--	-   ____  ___   _   _ _   ____.     | |
+2022-11-13 22:48:57	--	-  /  _ `'_  \ | | | '_/ /  __|  ___| |
+2022-11-13 22:48:57	--	-  | | | | | | | | | |   | |    /  _  |
+2022-11-13 22:48:57	--	-  | | | | | | | | | |   | |__  | |_| |
+2022-11-13 22:48:57	--	-  |_| |_| |_| |_| |_|   \____| \___,_|
+2022-11-13 22:48:57	--	-  minimized internet relay chat daemon
+2022-11-13 22:48:57	--	-
+2022-11-13 22:48:57	--	End of message of the day
+2022-11-13 22:57:20	--	irc: connecting to server localhost/10004...
+2022-11-13 22:57:20	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-13 22:57:20	--	CAP: Unknown command
+2022-11-13 22:57:20	--	Welcome to the minimized IRC daemon!
+2022-11-13 22:57:20	--	There are 2 users and 0 invisible on 1 server
+2022-11-13 22:57:20	--	- mircd Message of the day -
+2022-11-13 22:57:20	--	-  Hello, World!
+2022-11-13 22:57:20	--	-               @                    _
+2022-11-13 22:57:20	--	-   ____  ___   _   _ _   ____.     | |
+2022-11-13 22:57:20	--	-  /  _ `'_  \ | | | '_/ /  __|  ___| |
+2022-11-13 22:57:20	--	-  | | | | | | | | | |   | |    /  _  |
+2022-11-13 22:57:20	--	-  | | | | | | | | | |   | |__  | |_| |
+2022-11-13 22:57:20	--	-  |_| |_| |_| |_| |_|   \____| \___,_|
+2022-11-13 22:57:20	--	-  minimized internet relay chat daemon
+2022-11-13 22:57:20	--	-
+2022-11-13 22:57:20	--	End of message of the day
+2022-11-13 22:57:25	=!=	irc: this buffer is not a channel!
+2022-11-13 22:59:02	--	Channel Topic
+2022-11-13 22:59:02	--	#mamamoo(1): wind flower
+2022-11-13 22:59:02	--	End of List
+2022-11-13 22:59:05	--	UserID					Terminal  Host
+2022-11-13 22:59:05	--	aaa					-	127.0.0.1
+2022-11-13 22:59:05	--	bbb					-	127.0.0.1
+2022-11-13 22:59:05	--	End of users
+2022-11-13 23:07:03	--	irc: connecting to server localhost/10004...
+2022-11-13 23:07:03	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-13 23:07:03	--	CAP: Unknown command
+2022-11-13 23:07:03	--	Welcome to the minimized IRC daemon!
+2022-11-13 23:07:03	--	There are 2 users and 0 invisible on 1 server
+2022-11-13 23:07:03	--	- mircd Message of the day -
+2022-11-13 23:07:03	--	-  Hello, World!
+2022-11-13 23:07:03	--	-               @                    _
+2022-11-13 23:07:03	--	-   ____  ___   _   _ _   ____.     | |
+2022-11-13 23:07:03	--	-  /  _ `'_  \ | | | '_/ /  __|  ___| |
+2022-11-13 23:07:03	--	-  | | | | | | | | | |   | |    /  _  |
+2022-11-13 23:07:03	--	-  | | | | | | | | | |   | |__  | |_| |
+2022-11-13 23:07:03	--	-  |_| |_| |_| |_| |_|   \____| \___,_|
+2022-11-13 23:07:03	--	-  minimized internet relay chat daemon
+2022-11-13 23:07:03	--	-
+2022-11-13 23:07:03	--	End of message of the day
+2022-11-17 10:43:28	--	irc: connecting to server localhost/10004...
+2022-11-17 10:43:28	--	irc: connected to localhost/10004 (127.0.0.1)
+2022-11-17 10:43:28	--	CAP: Unknown command
+2022-11-17 10:43:28	--	Welcome to the minimized IRC daemon!
+2022-11-17 10:43:28	--	There are 2 users and 0 invisible on 1 server
+2022-11-17 10:43:28	--	- mircd Message of the day -
+2022-11-17 10:43:28	--	-  Hello, World!
+2022-11-17 10:43:28	--	-               @                    _
+2022-11-17 10:43:28	--	-   ____  ___   _   _ _   ____.     | |
+2022-11-17 10:43:28	--	-  /  _ `'_  \ | | | '_/ /  __|  ___| |
+2022-11-17 10:43:28	--	-  | | | | | | | | | |   | |    /  _  |
+2022-11-17 10:43:28	--	-  | | | | | | | | | |   | |__  | |_| |
+2022-11-17 10:43:28	--	-  |_| |_| |_| |_| |_|   \____| \___,_|
+2022-11-17 10:43:28	--	-  minimized internet relay chat daemon
+2022-11-17 10:43:28	--	-
+2022-11-17 10:43:28	--	End of message of the day
+2022-11-17 10:44:31	--	UserID					Terminal  Host
+2022-11-17 10:44:31	--	aaa					-	127.0.0.1
+2022-11-17 10:44:31	--	bbb					-	127.0.0.1
+2022-11-17 10:44:31	--	End of users
+2022-11-17 10:44:35	--	Channel Topic
+2022-11-17 10:44:35	--	cha1(0)
+2022-11-17 10:44:35	--	#cha1(1): hello, wolrd
+2022-11-17 10:44:35	--	End of List
